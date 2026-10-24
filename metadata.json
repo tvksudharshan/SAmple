@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Studio | Engineering & Product Architecture",
+  "description": "Premier engineering and digital product studio delivering high-throughput interfaces, real-time telemetry systems, and enterprise web platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
